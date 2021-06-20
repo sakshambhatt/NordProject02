@@ -2,6 +2,8 @@
 
 NordProject is a take home project given by Nord Finance. In this project I have to display a paginated table which can be sorted and searched through. Read more details in [Front End Developer Challenge](https://github.com/sakshambhatt/NordProject02/blob/main/Front%20End%20Developer%20Challenge.md)
 
+![Feature GIF](https://github.com/sakshambhatt/NordProject02/blob/main/public/NordProject.gif)
+
 ## Application links:
 
 1. [Source code - github](https://github.com/sakshambhatt/NordProject02)
