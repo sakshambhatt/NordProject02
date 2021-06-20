@@ -1,13 +1,11 @@
 # NordProject
 
-NordProject is a take home project given by Nord Finance. In this project I have to display a paginated table which can be sorted and searched through. Read more details in [Front End Developer Challenge]()
+NordProject is a take home project given by Nord Finance. In this project I have to display a paginated table which can be sorted and searched through. Read more details in [Front End Developer Challenge](https://github.com/sakshambhatt/NordProject02/blob/main/Front%20End%20Developer%20Challenge.md)
 
-## Project Overview:
+## Application links:
 
-## Application Link:
-
-1. [Source code - github]()
-2. [Hosted Link - netlify]()
+1. [Source code - github](https://github.com/sakshambhatt/NordProject02)
+2. [Hosted Link - netlify](https://nord-project.netlify.app/)
 
 ## Technologies used:
 
@@ -33,4 +31,4 @@ I have yet to learn jest and mocha. So, there are no test cases written for this
 
 1. State management could be done in a better way using either Redux or Redux toolkit. Which I have an understanding of, but am not well versed in.
 2. Multiple renderings are triggered by change in state variable of state hooks and all, this could be optimized
-3. # Pagination could be implemented in a standard way
+3. Pagination could be implemented in a standard way
