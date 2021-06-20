@@ -1,0 +1,81 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+@import url("https://fonts.googleapis.com/css?family=Titillium+Web:200,600");
+
+:root {
+  --light: #f3f4f6;
+  --dark: #111827;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  font-family: "Titillium Web", sans-serif;
+  padding: 0.5rem;
+  max-width: 60rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav {
+  padding: 0.5rem 0rem 0.5rem 0;
+}
+
+ul {
+  list-style-type: none;
+}
+table * {
+  padding: 0.15rem;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+tbody tr:nth-child(even) {
+  background-color: var(--light);
+}
+.button {
+  padding: 0.25rem;
+  border: 1px solid black;
+}
+.button-primary {
+  background-color: var(--dark);
+  color: var(--light);
+}
+.button-icon {
+  background: var(--light);
+}
+.button-turn-page {
+  padding: 0.25rem 1rem 0.25rem 1rem;
+}
+.nav-button-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.search-bar input,
+button {
+  margin: 0 0.15rem 0 0.15rem;
+}
+
+.no-results {
+  text-align: center;
+  padding: 5rem;
+}
+
+.spinner {
+  text-align: center;
+  padding: 5rem;
+}
