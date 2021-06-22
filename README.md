@@ -8,6 +8,12 @@ NordProject is a take home project given by Nord Finance. In this project I have
 
 1. [Source code - github](https://github.com/sakshambhatt/NordProject02)
 2. [Hosted Link - netlify](https://nord-project.netlify.app/)
+3. [Codesandbox ](https://codesandbox.io/s/nordproject-q1vvj)
+
+## Setup and running locally:
+1. nodeJS 14.x or later should be installed on your system.
+2. Open the repository in terminal and type `npm start`
+3. The app should start at localhost:3000
 
 ## Technologies used:
 
